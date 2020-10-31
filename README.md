@@ -1,2 +1,2 @@
-# PlanetStackPrivacyPolicy
-Planet Stack Privacy Policy
+# Privacy Policy
+We do not collect or store any data.
